@@ -179,3 +179,10 @@ UpgradeLog*.htm
 *.bim_*.settings
 # Microsoft Fakes
 FakesAssemblies/
+
+# Generated projectfiles 
+*.vcxproj*
+Makefile
+
+# Other artifacts 
+bin-int/*
